@@ -1,0 +1,16 @@
+.menu_container{
+    display: flex;
+    width: 40%;
+    margin-left: 10%;
+    align-items: center;
+    justify-content: space-around;
+    font-size: medium;
+    font-weight: 700;
+    height: fit-content;
+
+}
+@media screen and (max-width: 1000px) {
+    .menu_container{
+        display: none;
+    }
+}

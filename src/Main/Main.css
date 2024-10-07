@@ -1,0 +1,28 @@
+.slider_container{
+    width: 100% !important;
+    height: fit-content;
+   
+    display: grid;
+    grid: 5px;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.slider_ccontainer{
+    width: 100%;
+   
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+.social_ccontainer{
+   
+    box-sizing: border-box;
+}
+.article_ccontainer{
+    display: flex;
+}
+
+
+ 

@@ -1,0 +1,7 @@
+.triangle{
+    width: 200px;
+    height: 100px;
+    background-color: rgba(165, 42, 42, 0.511);
+    box-sizing: border-box;
+    position: relative;
+}
